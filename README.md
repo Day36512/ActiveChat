@@ -51,3 +51,22 @@ To add new text to npc_text.lua and npc_text_guild.lua, follow these steps to en
 {"This is the first line of an interactive chat.", "This is the response or the next line.", "And this could be a witty comeback or conclusion."},
 ```
 5. Ensure each new entry is separated by a comma from the previous one.
+
+To use zone, dungeon, class, and role placeholders in your chat system, you'll need to integrate these elements dynamically into the chat text. These placeholders allow the script to insert relevant game information into the chat lines, making the conversations feel more authentic and context-aware.
+
+1. Defining Placeholders
+First, define placeholders in your chat lines where you want these dynamic elements to appear. For example:
+
+- %zone% for a specific game zone.
+- %instance% for a dungeon or raid.
+- %class% for a player class.
+- %role% for a player role (Tank, DPS, Healer).
+- %bg% for various battlegrounds
+- %zone% for various zones
+
+Example chat line with placeholders:
+
+```lua
+Copy code
+"Looking for more for %instance%, need a %role% and two %class%s."
+```
