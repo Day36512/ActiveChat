@@ -6,6 +6,10 @@ Note: I am not the original author. If you are the original author please contac
 
 ![Active Chat](https://i.postimg.cc/fRvLKM1W/Capture.png)
 
+## Installation
+- This script requires the Eluna module for your server.
+- Simply download the zip and extract the folder to your server's lua_scripts folder.
+
 ## Features
 
 - **Artificial World and Guild Chat**: Mimics live conversations in both world and guild chat channels.
@@ -23,7 +27,7 @@ local talk_time = {1000,10000} -- World chat interval (ms)
 local guild_talk_time = {10000,30000} -- Guild chat interval (ms)
 ```
 
-# Content Tables
+## Content Tables
 The script includes a wide range of predefined, randomly picked content, such as:
 
 - **Zone
@@ -33,7 +37,7 @@ The script includes a wide range of predefined, randomly picked content, such as
 
 To add new text to npc_text.lua and npc_text_guild.lua, follow these steps to ensure your additions are correctly formatted and integrated into the script. The examples provided give a template for how to structure your new chat lines and interactive chats.
 
-# Adding to npc_text.lua and npc_text_guild.lua
+## Adding to npc_text.lua and npc_text_guild.lua
 1. Open the npc_text.lua or npc_text_guild.lua file in Notepad++.
 2. Locate the section where chat text is added, usually marked by a comment like.
 3. To add a simple chat line, just insert a new line with your text enclosed in quotes, followed by a comma. For example:
