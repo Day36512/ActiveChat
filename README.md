@@ -2,7 +2,9 @@
 
 This script is designed for AzerothCore using Eluna Lua scripting to simulate world and guild chat environment. It's intended single-player servers, adding a layer of immersion and social interaction by populating the chat with artificial conversations between non-existent players. This makes the game world feel more populated and lively. 
 
-Note: I am not the original author. If you are the original author please contact me so I can give you proper credit. I just modified and made things better. If you do happen to expand on the text, please make a pull request so we can all share in the fun.
+Note: I am not the original author. If you are the original author please contact me so I can give you proper credit. I just modified and made things better. 
+
+If you do happen to expand on the text, please make a pull request so we can all share in the fun.
 
 ![Active Chat](https://i.postimg.cc/fRvLKM1W/Capture.png)
 
