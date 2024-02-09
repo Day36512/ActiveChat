@@ -38,10 +38,12 @@ To add new text to npc_text.lua and npc_text_guild.lua, follow these steps to en
 2. Locate the section where chat text is added, usually marked by a comment like.
 3. To add a simple chat line, just insert a new line with your text enclosed in quotes, followed by a comma. For example:
 
-```"This is a new world chat message.",
+```lua
+"This is a new world chat message.",
 ```
 
 4. For interactive or multi-line chats, use curly braces {} to group the lines together, with each line as a string within the braces, separated by commas. For instance:
-```{"This is the first line of an interactive chat.", "This is the response or the next line.", "And this could be a witty comeback or conclusion."},
+```lua
+{"This is the first line of an interactive chat.", "This is the response or the next line.", "And this could be a witty comeback or conclusion."},
 ```
 5. Ensure each new entry is separated by a comma from the previous one.
