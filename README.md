@@ -39,7 +39,7 @@ To add new text to npc_text.lua and npc_text_guild.lua, follow these steps to en
 
 ## Adding to npc_text.lua and npc_text_guild.lua
 1. Open the npc_text.lua or npc_text_guild.lua file in Notepad++.
-2. Locate the section where chat text is added, usually marked by a comment like.
+2. Locate the section where chat text is added.
 3. To add a simple chat line, just insert a new line with your text enclosed in quotes, followed by a comma. For example:
 
 ```lua
