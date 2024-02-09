@@ -127,7 +127,7 @@ local instances = {
     "The Violet Hold", "Gundrak", "Halls of Stone", "Halls of Lightning", "The Oculus",
     "Utgarde Pinnacle", "Trial of the Champion", "The Forge of Souls", "Pit of Saron", "Halls of Reflection",
     "Naxxramas", "The Obsidian Sanctum", "The Eye of Eternity", "Ulduar", "Trial of the Crusader",
-    "Onyxia's Lair (Revamped)", "Icecrown Citadel", "The Ruby Sanctum"
+    "Onyxia's Lair", "Icecrown Citadel", "The Ruby Sanctum"
 }
 
 
