@@ -1,4 +1,4 @@
-# AzerothCore Eluna Lua Script: Lively World & Guild Chat
+# Eluna Lua Script: Lively World & Guild Chat
 
 This script is designed for AzerothCore using Eluna Lua scripting to simulate world and guild chat environment. It's intended single-player servers, adding a layer of immersion and social interaction by populating the chat with artificial conversations between non-existent players. This makes the game world feel more populated and lively. 
 
