@@ -69,3 +69,5 @@ Example chat line with placeholders:
 Copy code
 "Looking for more for %instance%, need a %role% and two %class%s."
 ```
+
+These placeholders will iterate through the appropriate table and randomly insert appropriate text.
