@@ -1,1 +1,2 @@
-![Image Description](https://ibb.co/Hx9YBJM "Optional Title")
+![Chat Preview](https://ibb.co/Hx9YBJM "Active Chat")
+
