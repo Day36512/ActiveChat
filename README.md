@@ -30,7 +30,7 @@ local guild_talk_time = {10000,30000} -- Guild chat interval (ms)
 ## Content Tables
 The script includes a wide range of predefined, randomly picked content, such as:
 
-- Zone
+- Zones
 - Instances
 - Roles and Classes
 - Battlegrounds
