@@ -24,8 +24,7 @@ local zones = {
     "Zangarmarsh", "Terokkar Forest", "Nagrand", "Blade's Edge Mountains", "Netherstorm",
     "Shadowmoon Valley", "Borean Tundra", "Howling Fjord", "Dragonblight",
     "Grizzly Hills", "Zul'Drak", "Sholazar Basin", "The Storm Peaks", "Icecrown",
-    "Crystalsong Forest", "Wintergrasp", "Mount Hyjal", "Vashj'ir", "Deepholm",
-    "Uldum", "Twilight Highlands", "Tol Barad"
+    "Crystalsong Forest", "Wintergrasp"
 }
 
 local instances = {
