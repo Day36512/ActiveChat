@@ -30,10 +30,10 @@ local guild_talk_time = {10000,30000} -- Guild chat interval (ms)
 ## Content Tables
 The script includes a wide range of predefined, randomly picked content, such as:
 
-- **Zone
-- **Instances
-- **Roles and Classes
-- **Battlegrounds
+- Zone
+- Instances
+- Roles and Classes
+- Battlegrounds
 
 To add new text to npc_text.lua and npc_text_guild.lua, follow these steps to ensure your additions are correctly formatted and integrated into the script. The examples provided give a template for how to structure your new chat lines and interactive chats.
 
