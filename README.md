@@ -56,10 +56,10 @@ To use zone, dungeon, class, and role placeholders in your chat system, you'll n
 
 Random Placeholders:
 
-- %zone% for a specific game zone.
-- %instance% for a dungeon or raid.
-- %class% for a player class.
-- %role% for a player role (Tank, DPS, Healer).
+- %zone% for random listed game zone.
+- %instance% for random listed dungeons or raids.
+- %class% for random player classes.
+- %role% for random player roles (Tank, DPS, Healer).
 - %bg% for various battlegrounds
 - %zone% for various zones
 
