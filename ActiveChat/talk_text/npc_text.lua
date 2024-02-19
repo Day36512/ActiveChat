@@ -269,10 +269,12 @@ local text = {[0] = {1,1},
 {"Does anyone know where to get some good sl*t mogs?", "Have you checked your mom's closet?"},
 "Yo momma so fat she got stuck on level 60 as she couldn't fit through the Dark Portal.",
 {"Why do they call it an Xbox 360?", "Because when you see it, you turn 360 degrees and walk away."},
-"Guys? How do I mine fish?"
-"LF Healer for STD."
+"Guys? How do I mine fish?",
+"LF Healer for STD.",
 {"Anyone for Throne of Thunder?", "Wrong expansion...", "I call my toilet the Throne of Thunder too!"},
-"Have you guys seen the little campfire and tent they added when you type /camp ?"
+"Have you guys seen the little campfire and tent they added when you type /camp ?",
+"Blizzard asked Chuck Norris what, if anything, he could remember about Vanilla.  Thus Classic was born.",
+"When Chuck Norris plays WoW, the NPCs complete quests for him.",
 }
 
 return text
