@@ -207,7 +207,7 @@ local text = {[0] = {1,1},
 "LF %instance% group where my pet's habit of aggroing extra mobs is seen as a fun surprise, not a problem.",
 "Looking for a raid group where 'I thought it was a shortcut' is a valid excuse.",
 "LFM for chill %instance% run. Bonus points if you can tell jokes while dodging boss mechanics.",
-"Yo mama so fat, she exalted with McDonalds.",
+{"Yo mama so fat, she exalted with McDonalds.", "Did she get the McMount reward?"},
 "WoD was the best expansion ever.",
 "Your momma's so fat chain heal hits her twice",
 "Yo mama is so fat her 4pc set bonus was fries and a coke!",
@@ -275,6 +275,9 @@ local text = {[0] = {1,1},
 "Have you guys seen the little campfire and tent they added when you type /camp ?",
 "Blizzard asked Chuck Norris what, if anything, he could remember about Vanilla.  Thus Classic was born.",
 "When Chuck Norris plays WoW, the NPCs complete quests for him.",
+"Yo mama so fat Earth Shield expired before it made a single orbit",
+"Yo momma so fat when a rogue shadowstepped her, he got a loading screen.",
+"How many rogues does it take to kill a Pally? Two. One to ambush and one to wait at the innkeeper.",
 }
 
 return text
