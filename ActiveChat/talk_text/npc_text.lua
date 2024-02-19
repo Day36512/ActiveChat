@@ -264,6 +264,15 @@ local text = {[0] = {1,1},
 "LF group to take silly screenshots with. Must enjoy costume changes and dramatic poses!",
 "Anyone else collect weird stuff? I've got a whole tab of just left shoes...",
 "WTB [Secret to Eternal Happiness]. Or just a slice of pie. Pie works too.",
+{"6 - 6 * 6 = ?", "0", "0", "0", "-30"},
+"Why do they call it invincible when you can see it?",
+{"Does anyone know where to get some good sl*t mogs?", "Have you checked your mom's closet?"},
+"Yo momma so fat she got stuck on level 60 as she couldn't fit through the Dark Portal.",
+{"Why do they call it an Xbox 360?", "Because when you see it, you turn 360 degrees and walk away."},
+"Guys? How do I mine fish?"
+"LF Healer for STD."
+{"Anyone for Throne of Thunder?", "Wrong expansion...", "I call my toilet the Throne of Thunder too!"},
+"Have you guys seen the little campfire and tent they added when you type /camp ?"
 }
 
 return text
