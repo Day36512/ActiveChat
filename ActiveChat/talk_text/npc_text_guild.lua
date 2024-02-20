@@ -159,6 +159,7 @@ local text = {[0] = {1,1},
 {"My kid saw me playing and now wants a 'cool dragon' too.", "Time to introduce them to the joys of pet collecting.", "Start them young, raise a future raider!", "Soon they'll be out-DPSing us all."},
 {"I miss the old days of ventrilo and chaotic raid calls.", "Half the raid was key-smashing and yelling.", "And the other half trying to figure out who was talking."},
 {"Just realized I've walked more in WoW this week than in real life.", "Azeroth has better scenery, to be fair."},
+"Did you know that /gquit asks you for a confirmation now?",
 }
 
 return text

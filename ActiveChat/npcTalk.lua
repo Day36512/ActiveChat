@@ -225,13 +225,13 @@ end
 -- Create a public chat event
 CreateLuaEvent(function()
     local n = t.d[math.random(#t.d)]
-    SendWorldMessage(string.format("|cFFFFC0C0[World]|r|cff%s|Hplayer:%s|h[%s]|h|r:|cFFFFC0C0%s|r", t.cc[math.random(#t.cc)], n, n, t:dt("talk")))
+    SendWorldMessage(string.format("|cFFFFC0C0[World] |r|cff%s|Hplayer:%s|h[%s]|h|r: |cFFFFC0C0%s|r", t.cc[math.random(#t.cc)], n, n, t:dt("talk")))
 end, {talk_time[1], talk_time[2]}, 0)
 
 -- Create a guild chat event
 CreateLuaEvent(function()
     local n = t.d[math.random(#t.d)]
-    SendWorldMessage(string.format("|cFF40FF40[Guild]|Hplayer:%s|h[%s]|h:%s|r", n, n, t:dt("guild_talk")))
+    SendWorldMessage(string.format("|cFF40FF40[Guild] |Hplayer:%s|h[%s]|h: %s|r", n, n, t:dt("guild_talk")))
 end, {guild_talk_time[1], guild_talk_time[2]}, 0)
 
 -- Process secret words and invitation packets
